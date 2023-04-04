@@ -45,12 +45,49 @@ Sat/Sun: On Request(Usually available whenever)
 Phone Number: 425-985-6828 
 Email: zthomsen@uwm.edu 
 
-Dedicated Meeting Times: 
+Dedicated Meeting Times (30 min – 1 hour) 
+Mon-Wen: 4 PM  
+
 Response time to communication expectations 
+Within 24 hours 
+
 Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.) 
+Unit tests pass, Acceptance tests pass, committed to Github 
+
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board) 
+Communication be after teams 
+Have an agenda for each meeting 
+Task breakdown/assign tasks 
+For each member 
+Progress / stuff-to-do / roadblocks 
+Designate a notetaker for the meeting 
+Rotate the position to a new member each meeting 
+
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates) 
-if you adopt such a policy during the initial meeting, put it here 
+If any changes need to be made, the entire group must agree on the changes 
+
+If you adopt such a policy during the initial meeting, put it here 
+Code review before merging – at least 2 people look at code before merging 
+Add comments that explain what each function/class does 
+
 Procedure for handling a member who is not meeting expectations 
+Communicate about what is happening 
+Give exceptions for extraneous circumstances 
+
 must include at least 3 actions before involving the instructor 
+Verbal check-in 
+Follow-up 
+No response -> Documented warning 
+Instructor involved 
+
 Signatures: each member must sign their name by typing their name at the bottom of the document. 
+
+Mathew Yang 
+
+Estelle Brady 
+
+Zach Thomsen 
+
+Michael McLaughlin 
+
+Julian Moreno-Johns 
